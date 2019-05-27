@@ -8,6 +8,7 @@
     
     <bean id="triangle" class="org.poonia.javabrains.Triangle">
     	<constructor-arg value="Equilateral"/>
+    	<constructor-arg value="20"/>
     	
     </bean>
     
