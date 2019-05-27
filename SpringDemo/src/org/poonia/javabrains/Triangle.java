@@ -13,9 +13,9 @@ public class Triangle {
 //		return height;
 //	}
 
-//	public Triangle(String type) {
-//		this.type = type;
-//	}
+	public Triangle(String type) {
+		this.type = type;
+	}
 //	
 //	public Triangle(String type, int height) {
 //		this.type = type;
@@ -26,7 +26,7 @@ public class Triangle {
 //		this.height = height;
 //	}
 	
-	 public void setType(String type) { this.type = type; }
+//	 public void setType(String type) { this.type = type; }
 	 
 
 	public void draw() {
