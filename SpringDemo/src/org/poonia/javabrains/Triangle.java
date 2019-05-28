@@ -24,7 +24,6 @@ public class Triangle {
 
 
 
-
 	public Point getPointB() {
 		return pointB;
 	}
